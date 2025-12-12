@@ -119,7 +119,7 @@ const HeroSection = () => {
           className="flex gap-4 justify-center"
         >
           <a
-            href="https://linkedin.com/in/ahmed-abdullateef"
+            href="https://www.linkedin.com/in/lateef-ahmed-9b198434a"
             target="_blank"
             rel="noopener noreferrer"
             className="p-4 rounded-full glass-card hover:bg-primary/20 transition-all duration-300 hover:scale-110"
