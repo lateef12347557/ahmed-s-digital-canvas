@@ -37,9 +37,17 @@ const projects = [
     title: "Skill-to-Earn",
     description: "A student-focused learning platform where users can learn, earn, and build digital skills. Includes interactive modules and user profiles.",
     stack: ["React", "TypeScript", "PostgreSQL"],
-    link: "https://skill-to-earnl.vercel.app",
+    link: "https://skill-to-earning.vercel.app",
     image: projectSkill,
     color: "from-teal-500/20 to-cyan-500/20"
+  },
+  {
+    title: "Royal Bell Schools",
+    description: "A modern school website featuring student information, academic programs, and enrollment details. Clean design with intuitive navigation.",
+    stack: ["React", "TypeScript", "Tailwind CSS"],
+    link: "https://royal-bell-schools.vercel.app/",
+    image: projectNewage,
+    color: "from-purple-500/20 to-pink-500/20"
   }
 ];
 
