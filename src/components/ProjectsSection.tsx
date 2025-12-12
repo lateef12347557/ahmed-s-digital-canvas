@@ -7,6 +7,7 @@ import projectNewage from "@/assets/project-newage.png";
 import projectUslm from "@/assets/project-uslm.png";
 import projectShear from "@/assets/project-shear.png";
 import projectSkill from "@/assets/project-skill.png";
+import projectSchool from "@/assets/project-school.png";
 
 const projects = [
   {
@@ -46,7 +47,7 @@ const projects = [
     description: "A modern school website featuring student information, academic programs, and enrollment details. Clean design with intuitive navigation.",
     stack: ["React", "TypeScript", "Tailwind CSS"],
     link: "https://royal-bell-schools.vercel.app/",
-    image: projectNewage,
+    image: projectSchool,
     color: "from-purple-500/20 to-pink-500/20"
   }
 ];
