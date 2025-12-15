@@ -53,7 +53,7 @@ const AboutSection = () => {
                     <Briefcase className="w-6 h-6 text-primary" />
                   </div>
                   <div>
-                    <p className="text-2xl font-bold">2+</p>
+                    <p className="text-2xl font-bold">3+</p>
                     <p className="text-sm text-muted-foreground">Years Exp.</p>
                   </div>
                 </div>
