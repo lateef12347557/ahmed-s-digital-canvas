@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { Linkedin, Download, ChevronDown, ArrowRight } from "lucide-react";
-import profilePhoto from "@/assets/profile-photo.jpg";
+import profilePhoto from "@/assets/Snapchat-1211355650.jpg";
 
 const HeroSection = () => {
   const scrollToProjects = () => {
