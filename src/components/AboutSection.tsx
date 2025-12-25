@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { MapPin, Mail, Phone, Download, Calendar, Briefcase } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import profilePhoto from "@/assets/profile-photo.jpg";
+import profilePhoto from "@/assets/Snapchat-1211355650.jpg";
 
 const AboutSection = () => {
   return (
